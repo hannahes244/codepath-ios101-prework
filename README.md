@@ -4,7 +4,7 @@ Submitted by: **Hannah Sanders**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -18,11 +18,21 @@ The following **required** functionality is completed:
   <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2edd3194cc1d43c6acbf4073f7941a78-2993455712da5503-full-play.gif">
 </a>
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
+- App 1: TikTok
+  - Adding videos to favorites/collections
+  - Being able to access links under videos to purchase products
+  - Auto-scroll
+- App 2: GoodNotes
+  - Importing download files as notebooks
+  - Adding images from your device to a notebook
+  - Exporting/downloading a notebook
+- App 3: Notion
+  - Connecting multiple calendars
+  - Using pre-built templates or creating custom templates
+  - Embedding various outside applications (ex. Spotify, Todoist, etc.)
+
+
 
 ## Notes
 
