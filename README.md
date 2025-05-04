@@ -31,8 +31,8 @@ The following **required** functionality is completed:
   - Connecting multiple calendars
   - Using pre-built templates or creating custom templates
   - Embedding various outside applications (ex. Spotify, Todoist, etc.)
-### - My App Idea: LaterList
-   - This app is a smart, personal wishlist and shopping tracker designed for people who love online shopping but want to stay organized and mindful about their purchases. Users can save items from any store by pasting links, uploading images, or manually entering details like price and product name. Each item can be tagged, categorized, and prioritized (i.e., “Need,” “Nice to Have,” “Gift Idea”). The app also offers optional features like a visual moodboard layout for displaying saved items and a budget tracker that calculates the total value of saved items. To encourage thoughtful spending, it includes a “Delayed Gratification” system that rewards users for waiting before making purchases.
+### My App Idea: LaterList
+This app is a smart, personal wishlist and shopping tracker designed for people who love online shopping but want to stay organized and mindful about their purchases. Users can save items from any store by pasting links, uploading images, or manually entering details like price and product name. Each item can be tagged, categorized, and prioritized (i.e., “Need,” “Nice to Have,” “Gift Idea”). The app also offers optional features like a visual moodboard layout for displaying saved items and a budget tracker that calculates the total value of saved items. To encourage thoughtful spending, it includes a “Delayed Gratification” system that rewards users for waiting before making purchases.
 
 
 
